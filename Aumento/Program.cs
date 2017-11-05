@@ -10,6 +10,12 @@ namespace Aumento
     {
         static void Main(string[] args)
         {
-        }
+
+            //SegundoPograma control = new SegundoPograma();
+            //control.Sumar();
+            TercerPrograma Control2 = new TercerPrograma();
+            Control2.PruebarCondicion();
+
+        }       
     }
 }
